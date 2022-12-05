@@ -19,7 +19,7 @@ Requisitos Adicionais/Opcionais Implementados:
 Informações Adicionas:
 
 	Repositório para acessar o projeto:
-	
+		https://github.com/marcosrod/comp-grafica-unity
 
 	A cena do projeto fica no caminho Assets/HQ Hangar Free/Scene/ExampleScene.unity
 
